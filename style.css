@@ -593,10 +593,11 @@ a.btn:hover::before {
 }
 
 .box .text h4 {
-    font: 400;
+    font: 500;
     letter-spacing: 1px;
     position: absolute;
-    top: 40%;
+    color: white;
+    top: 35%;
     left: 50%;
     transform: translate(-50%, -50%);
 }
